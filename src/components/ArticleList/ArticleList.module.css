@@ -9,7 +9,7 @@
 
 .list > * {
   flex: 1 1 calc(25% - 1.5rem);
-  min-width: 280px;
+  min-width: 0;
 }
 
 
@@ -24,4 +24,5 @@
     flex: 1 1 100%;
   }
 }
+
 
